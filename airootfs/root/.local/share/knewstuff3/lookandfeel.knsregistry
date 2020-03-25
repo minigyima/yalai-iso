@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Arc KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167640</homepage>
+  <licence></licence>
+  <version>20170925</version>
+  <rating>80</rating>
+  <downloads>477849</downloads>
+  <installedfile>/tmp/com.github.varlesh.arc-dark.tar.gz</installedfile>
+  <id>1167640</id>
+  <releasedate>2017-09-25</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/3/6/9/090ea1ab91bedab023d852189e47e2f4d475.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/3/6/9/090ea1ab91bedab023d852189e47e2f4d475.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDYzMTczNTAiLCJvIjoiMSIsInMiOiIzZjg2NTcwNzE1NmVlMTcyZmFmYjU3NWIyNTgxNDA5MTBhNmIwOGRhMGMzNWQ5YzVhMmQ4ZmQ5ZDFjMGJmNTcwZWY1YjM0NjA5MTE5MDM1ODYwMzI5MWY4Mjg2ZGMwZDdiOTJkN2MzNGE1YjA2YmYwYjc1NWFiNGVjNWYyZDA4ZCIsInQiOjE1ODUxNTA4NDQsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.GDUCtNeoHZ9tmz0Vms4K-5OijGvwvrX4DmzUmULIvUM/com.github.varlesh.arc-dark.tar.gz</payload>
+  <tags>look-and-feel,linux,unix,kde,plasma,theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

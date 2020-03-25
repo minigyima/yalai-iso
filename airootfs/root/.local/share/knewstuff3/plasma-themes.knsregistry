@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Arc KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167639</homepage>
+  <licence></licence>
+  <version>20180614</version>
+  <rating>84</rating>
+  <downloads>407936</downloads>
+  <installedfile>/tmp/1-Arc-Dark.tar.gz</installedfile>
+  <id>1167639</id>
+  <releasedate>2018-06-14</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.&lt;br />
+&lt;br />
+Screenshot Details&lt;br />
+Engine: Kavntum&lt;br />
+Kvantum Theme: Arc Darker&lt;br />
+Aurorae Decoration: Arc Dark&lt;br />
+Plasma Theme: Arc Dark&lt;br />
+Icons: Papirus&lt;br />
+Dock: Latte Dock&lt;br />
+File Manager: Dolphin&lt;br />
+Terminal: Yakuake&lt;br />
+&lt;br />
+NOTE: Arc Color Plasma Theme Support KDE Color Scheme.&lt;br />
+&lt;br />
+RECOMMEND USE THIS CUSTOMISATION WITH KVANTUM ENGINE:&lt;br />
+https://www.opendesktop.org/p/1005410/&lt;br />
+https://github.com/tsujan/Kvantum/releases</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Mjg5NzY0MTIiLCJvIjoiMSIsInMiOiI5MzAwODQxNzZiNDEwNGI2Yjk5MTUwZGEwYTJiNDZiZTNmYmVlMTcyNTFiMWY5NDgyZmM1ZGVhN2RjMjcxZmZjNzQ4ZDUzM2NiN2E1NTA1MjdiNGU3OTNmMjRkMTM5ZWExZjM1YzRlOGExMTM2ZWI3OGRlN2IyZDRlOTg1ZTlhMiIsInQiOjE1ODUxNTA4NDgsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.lWQBtvrlrHblJbVYqMtzgfQ2igPVwqF80hkpLzfTYIM/1-Arc-Dark.tar.gz</payload>
+  <tags>gplv3,source-package,linux,unix,kde,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

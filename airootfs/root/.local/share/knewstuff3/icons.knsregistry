@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>kfaenza outlined</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>koko2k</author>
+  <homepage>https://store.kde.org/p/1291816</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>60</rating>
+  <downloads>2445</downloads>
+  <installedfile>/root/.local/share/icons//kfaenza-koko-0.5/*</installedfile>
+  <installedfile>/root/.local/share/icons//</installedfile>
+  <id>1291816</id>
+  <releasedate>2020-01-03</releasedate>
+  <summary>This is the well known kfaenza theme.&lt;br />
+I modified it so that black/symbolic icons are now grey outlined icons and since the theme is for kde, i've also added window control icons for gtk3 apps using csd.&lt;br />
+Fixes comes as i found issues to the linked git repo.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/6/a/3/c05cd284eba7fcd9310d50c99d266f6655e6.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/6/a/3/c05cd284eba7fcd9310d50c99d266f6655e6.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzgwNTczMDciLCJvIjoiMSIsInMiOiIyY2Q2MjYxZjBlZDg3MGY5ZDdlZjZlNzczM2ExNjIwZmJhNzY1MzFhNmYxODlkZDE0OTI2MmZiMDk0ZWJmZjJiNjhlNWI3NzQzOWE5ZjlhZWExZjhmMWRkYmY2ZjJkNjQxMDcxMGQ0ZjM2ODIxYmM2OWQ5NjQ1NjkyZGIxMTg1ZCIsInQiOjE1ODUxNTA5NDMsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.r5hEh-iJMIC4ESDMcCHtN4c5FeWSq7Vv8iwsft25Zyg/kfaenza-outlined-0.5.tar.gz</payload>
+  <tags>gplv3,icon,theme,faenza,kfaenza,kde,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Obsidian Icon Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>madmaxms</author>
+  <homepage>https://store.kde.org/p/1169579</homepage>
+  <licence></licence>
+  <version>4.11</version>
+  <rating>84</rating>
+  <downloads>239</downloads>
+  <installedfile>/root/.local/share/icons//Obsidian-Sand/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Sand-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Silver-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Teal-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Red-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Red-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Green-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Gray-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Red/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Gray/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Silver-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Green-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//LICENSE</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Aqua/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Amber-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Gray-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Teal-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Sand-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Amber-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Purple-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//README.md</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Purple-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Purple/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Green/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Silver/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Aqua-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Mint/*</installedfile>
+  <installedfile>/root/.local/share/icons//logo.jpg</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Aqua-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Mint-SemiLight/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Amber/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Mint-Light/*</installedfile>
+  <installedfile>/root/.local/share/icons//Obsidian-Teal/*</installedfile>
+  <installedfile>/root/.local/share/icons//</installedfile>
+  <id>1169579</id>
+  <releasedate>2020-03-23</releasedate>
+  <summary>ABOUT&lt;br />
+======&lt;br />
+This is a fork of the popular icon theme Faenza, primary developed for dark themes. It comes with completely redesigned mimetype icons, lots of new and reworked app icons and multiple folder colors.&lt;br />
+&lt;br />
+* Dark gtk-theme "Obsidian 2": &lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/5/d/d/638dc309de80ee087509b5aa94ff1e26ed39.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/5/d/d/638dc309de80ee087509b5aa94ff1e26ed39.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODQ5OTYzNDciLCJvIjoiMSIsInMiOiJjYzA2ZjA1N2YyYWU4NjkyMTI3MzU3ZjE2NDcwY2JiM2M4ZjljYTliODVmMTczMGYyNGY5ZTlkODI0YzRlOWRkNDQ3NTA1ZTg2NjY5ZTc2ZGNkMTI5MDE3MWU2MjY5ZDM3MDQzOWJjODkyZDE3NzU3MWNmMTQ0YTU3NGRiY2Y1MyIsInQiOjE1ODUxNTEwMTcsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.jUV33ouJocIIFvh-ptISkFHiCLc-DwQUYsoBz9WLcsA/obsidian-iconpack.tar.xz</payload>
+  <tags>icon-theme,linux,unix,gplv3,modification-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Papirus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20200301</version>
+  <rating>89</rating>
+  <downloads>688539</downloads>
+  <installedfile>/root/.local/share/icons//papirus-folders-master/*</installedfile>
+  <installedfile>/root/.local/share/icons//</installedfile>
+  <id>1166289</id>
+  <releasedate>2020-03-01</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
+&lt;br />
+Papirus support hardcode-tray script:&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MTE1MDM0MzEiLCJvIjoiMSIsInMiOiJhNDI4NTEzOWQ5NjFiOTZmMjk5Y2ZhZDViYjg3ZGZkNTY2ZjU3ZThmYjU1MDgzNmIxZGE0M2ZjNGI3YTI0MzQ3OWU1NmUyOWY2NTZiZmU5ZGI2Y2IwZGQ2ZmMwNWZkOTE2YTc1NjMyMmQzZmMwYjVmMDgwNjUxYWMwNWQyNWU0ZSIsInQiOjE1ODUxNTA4NTIsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.7knvxNRKRBgrHlDxDhpg7asXXRwDRrSVOCr1hPJTNQ0/1511503431-master.tar.gz</payload>
+  <tags>linux,unix,original-product,gplv3,papirus,icon-theme,icons,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>KFaenza New</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>gry</author>
+  <homepage>https://store.kde.org/p/1233451</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>8347</downloads>
+  <installedfile>/root/.local/share/icons//KFaenza New 6/*</installedfile>
+  <installedfile>/root/.local/share/icons//</installedfile>
+  <id>1233451</id>
+  <releasedate>2018-05-17</releasedate>
+  <summary>Kfaenza New&lt;br />
+Icons:&lt;br />
+Faenza,Kfaenza,Breeze,Oxygen,delft&lt;br />
+&lt;br />
+Uncompressed files and put in&lt;br />
+/home/"user"/.local/share/icons/&lt;br />
+or as root in&lt;br />
+/usr/share/icons/&lt;br />
+&lt;br />
+(I just rebuilt the old kfaenza and the faenza with some new ones)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/3/0/1/ce80d41d45ea5c7d074693ccd8bfa193d939.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/3/0/1/ce80d41d45ea5c7d074693ccd8bfa193d939.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjY2MDUzNjUiLCJvIjoiMSIsInMiOiJiNDA2YzMzODJjM2M4Y2UwMDkwY2M5MWU5MTRhODAyYjAwMDE1YTVjZDAyZGFhM2Q2NTA1NTU3MzViNDY0NDdlMjE0OWZhMWE4YzI2ZGFjZGJmMjkzMjk2ZDkyYzgzZmFjM2VlNDQ4NGE2OTY3YzM3YzY5NDU1MTdjNDIwZjIzOSIsInQiOjE1ODUxNTA5NDcsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.XwWp8DrEn7BR6knkRMIrA1v54RlmKeCg8HqsvTWSbyk/KFaenza New 6.tar.gz</payload>
+  <tags>gplv2-later,linux,unix,icon-theme,faenza,icons</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

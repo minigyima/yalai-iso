@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Arc KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167637</homepage>
+  <licence></licence>
+  <version>20180201</version>
+  <rating>68</rating>
+  <downloads>417314</downloads>
+  <installedfile>/root/.local/share/aurorae/themes//Arc/*</installedfile>
+  <installedfile>/root/.local/share/aurorae/themes//Arc-Dark/*</installedfile>
+  <installedfile>/root/.local/share/aurorae/themes//</installedfile>
+  <id>1167637</id>
+  <releasedate>2018-02-01</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.&lt;br />
+RECOMMEND USE THIS CUSTOMISATION WITH KVANTUM ENGINE:&lt;br />
+https://www.opendesktop.org/p/1005410/&lt;br />
+https://github.com/tsujan/Kvantum/releases</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MTc0NjY1NDUiLCJvIjoiMSIsInMiOiI3OWZhODA0YmU2YzhjMzBmMDIzM2Y2MDMwMjk3MGJiMWZmOTY5NWNiYWIyMjhlNmU0ZTgzMmM0ZjAzMTNmN2U2ZTlmYjU0ODdiNDQ1ODNkZTNmNjIyYzE0ZDliZjczYjAxMDk4MzQxNjNmYmRlMjBkODk0NzdlN2QyOWQxYmFmMyIsInQiOjE1ODUxNTA4NTAsInN0ZnAiOm51bGwsInN0aXAiOiI4NS4yMzguNzAuMTI0In0.Z3MVYedOvwJss_BD4tFLdUa4mPISlf6WOBG4yt3O2gU/arc-kde-aurorae.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

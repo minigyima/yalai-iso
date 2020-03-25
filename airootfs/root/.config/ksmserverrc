@@ -1,0 +1,21 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=106161610000158514720400000005560006
+clientId2=106161610000158514720400000005560000
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/kwin_106161610000158514720400000005560000_1585148372_748881
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kwin_x11
+restartCommand1=/usr/lib/DiscoverNotifier,-session,106161610000158514720400000005560006_1585148372_744999
+restartCommand2=/usr/bin/kwin_x11,-session,106161610000158514720400000005560000_1585148372_748881
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=root
+userId2=root
+wasWm1=false
+wasWm2=true
