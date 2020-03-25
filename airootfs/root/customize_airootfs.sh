@@ -22,5 +22,6 @@ sed -i 's/#\(HandleLidSwitch=\)suspend/\1ignore/' /etc/systemd/logind.conf
 systemctl enable pacman-init.service choose-mirror.service
 systemctl set-default graphical.target
 systemctl enable sddm
+systemctl disable dhcpcd
 systemctl enable NetworkManager
 cp /root/pacman.conf /etc/pacman.conf
