@@ -12,16 +12,17 @@ cp -aT /etc/skel/ /root/
 chmod 700 /root
 
 sed -i 's/#\(PermitRootLogin \).\+/\1yes/' /etc/ssh/sshd_config
-sed -i "s/#Server/Server/g" /etc/pacman.d/mirrorlist
 sed -i 's/#\(Storage=\)auto/\1volatile/' /etc/systemd/journald.conf
 
 sed -i 's/#\(HandleSuspendKey=\)suspend/\1ignore/' /etc/systemd/logind.conf
 sed -i 's/#\(HandleHibernateKey=\)hibernate/\1ignore/' /etc/systemd/logind.conf
 sed -i 's/#\(HandleLidSwitch=\)suspend/\1ignore/' /etc/systemd/logind.conf
 
+cp /root/pacman.conf /etc/pacman.conf
+cp /root/mirrorlist /etc/pacman.d/mirrorlist
+
 systemctl enable pacman-init.service choose-mirror.service
 systemctl set-default graphical.target
 systemctl enable sddm
 systemctl disable dhcpcd
 systemctl enable NetworkManager
-cp /root/pacman.conf /etc/pacman.conf
